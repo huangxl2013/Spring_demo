@@ -1,5 +1,6 @@
 import java.sql.*;
 
+//创建类，用来连接mysql数据库并执行相关sql
 public class ConnectMySql {
     public static void main(String[] args) {
         //声明Connection对象
