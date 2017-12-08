@@ -5,6 +5,6 @@ package cn.com.itcast;
  */
 public class User {
     public void add(){
-        System.out.println("add add ......");
+        System.out.println("哈哈add add ......");
     }
 }

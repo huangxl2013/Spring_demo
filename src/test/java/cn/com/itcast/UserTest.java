@@ -15,5 +15,6 @@ public class UserTest {
         User user = (User) context.getBean("user");
         System.out.println(user);
         user.add();
+        System.out.println(user);
     }
 }
